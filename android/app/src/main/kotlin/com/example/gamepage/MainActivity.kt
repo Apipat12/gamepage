@@ -1,0 +1,6 @@
+package com.example.gamepage
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
